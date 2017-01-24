@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		.header{
+			height: 100px ;
+			width : 100%;
+			background-color: cyan;
+			float: left;
+		}
+	</style>
+</head>
+<body>
+<<<<<<< HEAD
+<input type="button" name="" value="shilpa"/>
+	<div class='header'>
+<h2>Ankit</h2>		
+<h2>SHILPA</h2>
+	</div>
+</body>
+</html>
+=======
+	<div class='header'>
+<h2>Ankit</h2>		
+	</div>
+</body>
+</html>
+>>>>>>> 65a5eac382ada02d7294f3f1dabdf90acd76a730
