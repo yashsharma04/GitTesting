@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>Student management portal</title>
+<head>
 	<style type="text/css">
 		.header{
 			height: 100px ;
@@ -11,34 +11,18 @@
 	</style>
 </head>
 <body>
+<<<<<<< HEAD
 <input type="button" name="" value="shilpa"/>
 	<div class='header'>
-
-<<<<<<< HEAD
 <h2>Ankit</h2>		
 <h2>SHILPA</h2>
-
-
-	<ul>
-	<li>Text
-	<li>Image
-	<li>JS
-	</ul>
-		
-
-<h2>Ankit</h2>		
-
-
-		Username:<input type ="text" id="inp1">
-		Username:<input type ="text" id="inp1">
-		Username:<input type ="text" id="inp1">
-
-		<h2>Ankit</h2>		
-
-		<strike><h2>Ankit</h2></strike>
-
 	</div>
-
-<h3>Megha</h3>
 </body>
 </html>
+=======
+	<div class='header'>
+<h2>Ankit</h2>		
+	</div>
+</body>
+</html>
+>>>>>>> 65a5eac382ada02d7294f3f1dabdf90acd76a730
