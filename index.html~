@@ -11,6 +11,7 @@
 	</style>
 </head>
 <body>
+<<<<<<< HEAD
 <input type="button" name="" value="shilpa"/>
 	<div class='header'>
 <h2>Ankit</h2>		
@@ -18,3 +19,10 @@
 	</div>
 </body>
 </html>
+=======
+	<div class='header'>
+<h2>Ankit</h2>		
+	</div>
+</body>
+</html>
+>>>>>>> 65a5eac382ada02d7294f3f1dabdf90acd76a730
